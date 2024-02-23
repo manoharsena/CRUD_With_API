@@ -60,7 +60,6 @@ The application will be available at http://localhost:3000.
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-
 ## Screenshot
 
 ![Output](<Output Screenshot.png>)
